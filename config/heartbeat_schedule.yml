@@ -1,0 +1,4 @@
+MessageSayer:
+  every: 30s
+  class: MessageSayer
+  args: "beat"
